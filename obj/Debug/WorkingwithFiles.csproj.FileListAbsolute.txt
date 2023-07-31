@@ -1,0 +1,8 @@
+C:\data\WorkingwithFiles\WorkingwithFiles\bin\Debug\WorkingwithFiles.exe.config
+C:\data\WorkingwithFiles\WorkingwithFiles\bin\Debug\WorkingwithFiles.exe
+C:\data\WorkingwithFiles\WorkingwithFiles\bin\Debug\WorkingwithFiles.pdb
+C:\data\WorkingwithFiles\WorkingwithFiles\obj\Debug\WorkingwithFiles.csproj.AssemblyReference.cache
+C:\data\WorkingwithFiles\WorkingwithFiles\obj\Debug\WorkingwithFiles.csproj.SuggestedBindingRedirects.cache
+C:\data\WorkingwithFiles\WorkingwithFiles\obj\Debug\WorkingwithFiles.csproj.CoreCompileInputs.cache
+C:\data\WorkingwithFiles\WorkingwithFiles\obj\Debug\WorkingwithFiles.exe
+C:\data\WorkingwithFiles\WorkingwithFiles\obj\Debug\WorkingwithFiles.pdb
